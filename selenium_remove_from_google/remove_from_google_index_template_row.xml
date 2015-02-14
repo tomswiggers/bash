@@ -1,0 +1,21 @@
+<tr>
+	<td>open</td>
+	<td>/webmasters/tools/url-removal?hl=en&amp;siteUrl=SITE_URL</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=urlt</td>
+	<td>URL_TO_REMOVE</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=urlt.submitButton</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=submit-button</td>
+	<td></td>
+</tr>
+
