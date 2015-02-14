@@ -1,4 +1,4 @@
-# REAME
+# Selenium script to remove url's from google index
 
 * create a file to_remove.txt
 * every line in to_remove.txt is an url you like to remove from google index
